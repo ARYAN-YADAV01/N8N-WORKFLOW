@@ -1,6 +1,10 @@
-# N8N-WORKFLOW
+# 🤖 AI Chat Agent Workflow
+
 AI-powered chat agent built with n8n — uses Google Gemini to answer FAQs, check inventory, and log orders via Google Sheets.
 
+## 📦 Workflow JSON
+
+```json
 {
   "name": "AI Chat Agent Workflow",
   "nodes": [
@@ -187,3 +191,4 @@ AI-powered chat agent built with n8n — uses Google Gemini to answer FAQs, chec
   "updatedAt": "2026-05-22T00:00:00.000Z",
   "versionId": "1"
 }
+```
